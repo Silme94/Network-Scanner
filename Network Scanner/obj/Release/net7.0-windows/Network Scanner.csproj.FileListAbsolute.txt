@@ -1,0 +1,17 @@
+C:\Users\Salaheddine\source\repos\Network Scanner\Network Scanner\bin\Release\net7.0-windows\Network Scanner.exe
+C:\Users\Salaheddine\source\repos\Network Scanner\Network Scanner\bin\Release\net7.0-windows\Network Scanner.deps.json
+C:\Users\Salaheddine\source\repos\Network Scanner\Network Scanner\bin\Release\net7.0-windows\Network Scanner.runtimeconfig.json
+C:\Users\Salaheddine\source\repos\Network Scanner\Network Scanner\bin\Release\net7.0-windows\Network Scanner.dll
+C:\Users\Salaheddine\source\repos\Network Scanner\Network Scanner\bin\Release\net7.0-windows\Network Scanner.pdb
+C:\Users\Salaheddine\source\repos\Network Scanner\Network Scanner\obj\Release\net7.0-windows\Network Scanner.csproj.AssemblyReference.cache
+C:\Users\Salaheddine\source\repos\Network Scanner\Network Scanner\obj\Release\net7.0-windows\Network_Scanner.Form1.resources
+C:\Users\Salaheddine\source\repos\Network Scanner\Network Scanner\obj\Release\net7.0-windows\Network Scanner.csproj.GenerateResource.cache
+C:\Users\Salaheddine\source\repos\Network Scanner\Network Scanner\obj\Release\net7.0-windows\Network Scanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salaheddine\source\repos\Network Scanner\Network Scanner\obj\Release\net7.0-windows\Network Scanner.AssemblyInfoInputs.cache
+C:\Users\Salaheddine\source\repos\Network Scanner\Network Scanner\obj\Release\net7.0-windows\Network Scanner.AssemblyInfo.cs
+C:\Users\Salaheddine\source\repos\Network Scanner\Network Scanner\obj\Release\net7.0-windows\Network Scanner.csproj.CoreCompileInputs.cache
+C:\Users\Salaheddine\source\repos\Network Scanner\Network Scanner\obj\Release\net7.0-windows\Network Scanner.dll
+C:\Users\Salaheddine\source\repos\Network Scanner\Network Scanner\obj\Release\net7.0-windows\refint\Network Scanner.dll
+C:\Users\Salaheddine\source\repos\Network Scanner\Network Scanner\obj\Release\net7.0-windows\Network Scanner.pdb
+C:\Users\Salaheddine\source\repos\Network Scanner\Network Scanner\obj\Release\net7.0-windows\Network Scanner.genruntimeconfig.cache
+C:\Users\Salaheddine\source\repos\Network Scanner\Network Scanner\obj\Release\net7.0-windows\ref\Network Scanner.dll
