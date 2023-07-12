@@ -1,5 +1,3 @@
-# HOW TO USE
-
 Network Scanner application.
 
-![App Screenshot]()
+![App Screenshot](https://github.com/Silme94/Network-Scanner/blob/main/screenshot.png)
